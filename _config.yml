@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daren Card, Ph.D."
+title                    : "Kathryn Kananen, M.S."
 title_separator          : "-"
-name                     : "Daren Card, Ph.D."
-description              : "Professional website for Daren Card, Ph.D."
-url                      : https://darencard.github.io
+name                     : "DKathryn Kananen, M.S."
+description              : "Professional website for Kathryn Kananen, M.S."
+url                      : https://kekananen.github.io
 baseurl                  : 
-repository               : https://github.com/darencard/darencard.github.io
+repository               : https://github.com/kekananen/kekananen.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
@@ -100,8 +100,8 @@ author:
   name             : ""
   avatar           : "/assets/images/home/Daren_Card_2018_cropped.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NSF Postdoctoral Fellow researching evolutionary genomics in reptiles"
-  location         : "Harvard University"
-  email            : "dcard@fas.harvard.edu"
+  location         : "Kathryn Kananen"
+  email            : "kathhryn.kananen@osu.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -110,19 +110,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "darencard"
+  github           : "kekananen"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "darencard" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "kekananen" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "darencard"
+  twitter          : "kekananen"
   vine             :
   weibo            :
   xing             :
