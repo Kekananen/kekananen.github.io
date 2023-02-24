@@ -1,3 +1,3 @@
-Professional website for Daren Card.
+Professional website for Kathryn Kananen.
 
-Direct link: [https://darencard.github.io](https://darencard.github.io)
+Direct link: [https://kekananen.github.io](https://kekananen.github.io)
