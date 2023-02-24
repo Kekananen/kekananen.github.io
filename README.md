@@ -1,3 +1,3 @@
 Professional website for Kathryn Kananen.
 
-Direct link: [https://kekananen.github.io](https://kekananen.github.io)
+Direct link: [http://thenerdyte.com](http://thenerdyte.com)
