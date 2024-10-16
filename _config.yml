@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "Kathryn Kananen, M.S."
 title_separator          : "-"
-name                     : "DKathryn Kananen, M.S."
+name                     : "Kathryn Kananen, M.S."
 description              : "Professional website for Kathryn Kananen, M.S."
-url                      : https://www.thenerdyte.com
+url                      : https://kekananen.github.io
 baseurl                  : 
 repository               : https://github.com/kekananen/kekananen.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
